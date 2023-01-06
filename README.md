@@ -8,7 +8,7 @@
 </div>
 
  <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block"> TECH <br>
     <img align="left" height="220" alt="tabela" src="https://github-profile-trophy.vercel.app/?username=flynof&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
     <h1 align="center"> </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,7 @@
   </div>
     
   <div>
-    <h1 align="center"></h1>
+    <h1 align="center"> SOCIAIS </h1>
     <a href = "mailto:matheusferreira2negocios@gmail.com"><img src="https://img.shields.io/badge/-Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </a>
     <a href="https://www.linkedin.com/in/matheus-ferreira-pires-a15926259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
